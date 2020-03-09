@@ -1,0 +1,1410 @@
+Activity Period,Operating Airline,Operating Airline IATA Code,Published Airline,Published Airline IATA Code,GEO Summary,GEO Region,Activity Type Code,Price Category Code,Terminal,Boarding Area,Passenger Count
+201811,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,1
+201803,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,10
+201810,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,10
+201801,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,11
+201802,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,14
+201804,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,19
+201807,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,31
+201809,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,32
+201805,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,39
+201411,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,40
+201808,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,42
+200701,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,International,A,48
+200701,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,International,A,48
+201806,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,50
+201806,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,A,52
+200910,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,62
+201904,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,A,63
+200802,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,International,A,66
+201411,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,67
+200611,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,International,A,85
+200710,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,International,A,100
+201805,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,117
+200710,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,International,A,119
+201809,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,124
+200707,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,International,A,127
+200707,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,International,A,138
+201903,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,A,143
+201603,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,146
+201604,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,146
+201904,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,A,147
+201809,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,152
+200706,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,International,A,158
+201803,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,164
+201811,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,166
+201805,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,A,169
+201806,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,A,182
+200605,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 3,E,190
+200708,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,International,A,201
+201811,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,203
+201904,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,A,207
+201807,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,A,226
+201805,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,236
+201805,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,236
+201805,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,A,239
+201904,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,239
+201809,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,249
+201805,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,A,262
+201807,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,A,280
+201905,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,280
+200511,ATA Airlines,TZ,ATA Airlines,TZ,International,Canada,Deplaned,Low Fare,International,A,284
+200511,ATA Airlines,TZ,ATA Airlines,TZ,International,Canada,Enplaned,Low Fare,International,A,284
+201909,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,286
+201806,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,302
+201904,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,303
+201801,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,307
+201503,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,315
+201907,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,315
+201903,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,316
+201703,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,318
+201903,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Deplaned,Other,International,A,319
+201810,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,328
+201903,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Enplaned,Other,International,A,330
+201907,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,343
+201903,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,344
+201807,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,350
+201805,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,361
+201909,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,365
+201807,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,A,375
+201805,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,384
+201905,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,393
+201603,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,411
+201604,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,411
+200709,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,412
+201806,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,416
+200709,ATA Airlines,TZ,ATA Airlines,TZ,International,Canada,Enplaned,Low Fare,International,A,423
+201904,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,437
+201101,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,443
+201903,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,444
+201905,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,452
+201801,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,457
+201001,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,463
+201101,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,480
+200904,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,481
+201701,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,482
+201701,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,482
+201908,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,532
+201806,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,A,540
+201810,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,548
+200904,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,549
+201001,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,553
+201807,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,566
+200709,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,571
+201906,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,572
+201805,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,592
+200901,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,596
+200809,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,599
+201802,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,603
+201803,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,607
+201810,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,631
+201807,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,641
+200901,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,642
+201806,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,646
+201908,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,647
+200811,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,660
+201908,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,A,669
+201903,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,692
+200605,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,714
+201906,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,719
+200809,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,724
+201909,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,732
+200811,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,741
+201806,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,749
+201908,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,A,773
+201601,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,774
+201805,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,774
+201805,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,776
+201601,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,777
+201702,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,778
+200605,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,802
+200911,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,836
+201907,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,842
+200911,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,857
+201602,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,869
+201805,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,885
+201005,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,886
+201005,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,903
+201501,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,912
+201905,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,914
+201802,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,916
+201501,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,917
+201807,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,921
+201502,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Deplaned,Low Fare,International,A,926
+201806,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,950
+201005,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,G,972
+201902,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,986
+201909,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1029
+201906,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1034
+201902,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1039
+201902,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1052
+201807,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1080
+201907,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1088
+201902,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1089
+201803,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,1090
+201903,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1092
+201702,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,1097
+201810,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1099
+201903,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1101
+201906,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,1129
+201602,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,1134
+201811,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1136
+201904,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1150
+200901,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1166
+201210,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,1188
+201907,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1197
+200901,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1211
+201803,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,1212
+201906,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1214
+201809,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1241
+200810,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1249
+201502,Sun Country Airlines,SY,Sun Country Airlines,SY,International,Mexico,Enplaned,Low Fare,International,A,1251
+200809,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1258
+200809,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1263
+201901,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1272
+200810,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1274
+201811,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1288
+201901,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1293
+201902,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1306
+201903,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,1314
+201110,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,1315
+201908,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1316
+201110,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,1325
+201901,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,1328
+201902,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1336
+201903,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1336
+201005,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,G,1337
+200811,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1361
+201811,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1374
+201807,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1375
+201807,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,1380
+200811,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1387
+201906,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1390
+201905,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1407
+201905,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1415
+201909,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1419
+201907,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1441
+201904,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1446
+201010,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,G,1455
+201809,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1456
+201806,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1461
+201811,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1461
+201909,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1464
+201810,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1466
+200806,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1472
+201901,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1473
+201907,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1475
+201210,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,1487
+201908,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1499
+200905,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1502
+200806,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1514
+201811,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1515
+201808,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1517
+200905,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1525
+201810,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1552
+200511,Independence Air,DH,Independence Air,DH,Domestic,US,Deplaned,Low Fare,International,A,1555
+201905,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1578
+201903,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1581
+201808,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1602
+201901,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1607
+201806,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,1614
+201810,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1625
+201901,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,1634
+201105,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,1638
+201809,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1644
+201906,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1661
+200812,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1669
+201904,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,1669
+200812,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1670
+201812,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1682
+201010,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,G,1689
+201908,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1700
+201205,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,1718
+201808,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,1722
+201806,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,1723
+201904,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,1734
+201805,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,1781
+200511,Independence Air,DH,Independence Air,DH,Domestic,US,Enplaned,Low Fare,International,A,1790
+201205,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,1816
+201811,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,1818
+201105,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,1830
+200807,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1869
+200807,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1882
+201812,French Bee,BF,French Bee,BF,International,Australia / Oceania,Enplaned,Other,International,G,1882
+201711,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,1900
+201804,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,1903
+200702,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1918
+201711,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,1926
+201202,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,1930
+201202,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,1931
+201201,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,1936
+201610,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,1939
+201904,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,1944
+201810,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,1947
+200804,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,1948
+201908,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,A,1964
+201901,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,1982
+201811,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,1989
+200808,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Enplaned,Low Fare,Terminal 1,B,1996
+201902,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2008
+201809,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,2009
+201810,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2022
+200808,Allegiant Air,G4,Allegiant Air,G4,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2028
+201605,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,2041
+200702,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2050
+201904,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2050
+201811,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2052
+200802,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2056
+201807,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2058
+201710,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,2059
+201402,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2061
+201805,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,2065
+201610,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2070
+201008,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,G,2085
+201806,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,2086
+201809,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,2086
+201402,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2090
+200802,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2092
+201901,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2092
+201812,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2111
+200602,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2119
+201905,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2148
+201006,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,G,2158
+201605,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,2159
+201106,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,2161
+201807,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2164
+201201,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2170
+201809,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2175
+201812,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2179
+201804,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,2180
+201808,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,2204
+201810,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2204
+200602,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2207
+201811,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,2209
+201902,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2216
+201207,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,2221
+201106,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,2233
+201702,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2234
+201812,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,2240
+201909,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,2243
+201808,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,2245
+201702,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2250
+201007,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,G,2261
+201810,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2282
+201302,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2283
+201809,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2287
+201008,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,G,2294
+201905,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,2301
+201009,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,G,2343
+201809,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2344
+201809,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,2346
+200705,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,2349
+201009,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,G,2357
+201611,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,2358
+201302,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2359
+201209,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,2362
+201909,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2364
+200601,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2370
+201807,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,2386
+201906,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2396
+201010,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,2398
+200512,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,2402
+200804,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2403
+200902,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2404
+200604,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,2419
+201805,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,2424
+201806,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2426
+200601,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2429
+201011,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,2430
+200701,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2443
+201802,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,2449
+201011,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,2451
+201805,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2466
+201806,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,2479
+201809,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,2486
+201807,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,2490
+201611,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2496
+201209,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,2515
+200801,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2521
+201807,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,2525
+201010,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,2540
+201006,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,G,2548
+201808,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,2549
+201804,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,2558
+201006,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,2576
+201802,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,2579
+201203,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2592
+200701,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2596
+201007,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,G,2620
+200902,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2622
+201203,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2637
+201502,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2642
+201808,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2646
+201906,French Bee,BF,French Bee,BF,International,Europe,Enplaned,Other,International,G,2651
+201502,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2656
+201303,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2663
+201204,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2672
+201402,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2691
+201602,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2692
+200801,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2696
+201803,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,2699
+201810,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,2708
+200812,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2718
+201303,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2719
+201811,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,2736
+201301,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2738
+201006,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,2757
+201602,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2759
+201107,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,2767
+201909,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2767
+201403,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2769
+201802,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2774
+201812,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,2791
+200812,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2794
+201907,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2797
+201401,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2815
+201402,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2825
+200909,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2826
+201710,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2834
+201304,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2835
+200705,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2848
+201109,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,2851
+201806,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,2851
+201802,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2852
+200805,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2857
+201908,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,2865
+200708,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,2868
+200609,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,2875
+201806,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,2875
+200705,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2877
+201808,French Bee,BF,French Bee,BF,International,Europe,Thru / Transit,Other,International,G,2884
+201808,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2894
+201701,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2897
+200803,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2901
+200912,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2902
+201403,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2902
+200707,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,2906
+200511,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,2911
+201109,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,2911
+201703,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2917
+200805,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,2921
+200609,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,2934
+201109,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2944
+201711,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,2944
+200803,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2950
+200602,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,2951
+200602,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,2964
+200702,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2974
+201301,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2976
+200704,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2985
+201703,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,2989
+201304,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,2992
+200912,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,2997
+201206,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,2998
+201204,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3011
+201009,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,3020
+201709,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,3030
+200909,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3034
+201807,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,3065
+201109,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3082
+201110,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3083
+200702,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3084
+201710,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,3086
+200703,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3110
+201710,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,3111
+201712,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,3113
+201709,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,3122
+201804,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,3131
+200611,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,3146
+201401,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3156
+201111,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3160
+200603,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3176
+200606,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,3183
+201503,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3210
+201107,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,3217
+201712,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,3221
+200611,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,3222
+200906,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3226
+201503,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3230
+201401,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3236
+201802,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,3244
+201108,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,3251
+201810,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,3255
+200606,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,3259
+201808,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,3282
+201708,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,3285
+201110,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3309
+201111,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3309
+200705,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,3314
+201603,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3315
+200601,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,3316
+200604,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3318
+201702,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,3318
+200704,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3323
+200610,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,3330
+201907,French Bee,BF,French Bee,BF,International,Australia / Oceania,Thru / Transit,Other,International,G,3332
+201603,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3335
+201701,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3345
+200610,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,3357
+200703,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3371
+201703,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,3375
+201404,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3381
+201206,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,3382
+200811,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3387
+201208,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,3425
+201601,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3441
+200510,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3448
+201210,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3449
+201801,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,3450
+201112,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3451
+201105,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3455
+201801,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,3463
+200610,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3471
+200611,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3472
+201401,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3472
+201208,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,3473
+201901,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3475
+200609,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3483
+201205,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3487
+201711,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,3489
+200510,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3508
+201803,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3508
+200906,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3513
+200611,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3520
+200605,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3525
+201409,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3526
+200802,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3533
+201210,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3535
+200610,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3537
+200901,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3538
+201410,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3551
+201105,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3563
+201409,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3566
+200609,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3570
+201501,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3578
+201406,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3580
+201205,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3582
+201403,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3588
+200509,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3592
+200608,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,3597
+200612,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3597
+200901,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3603
+201410,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3609
+201406,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3610
+200811,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3619
+200607,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,3631
+200802,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3632
+200803,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3636
+200607,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,3638
+201207,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,3638
+200608,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,3640
+200605,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3643
+200509,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3686
+200903,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3687
+201108,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,3706
+201112,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3715
+200603,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3719
+201812,French Bee,BF,French Bee,BF,International,Europe,Deplaned,Other,International,G,3720
+201802,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,3724
+201403,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3729
+201501,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3734
+200604,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3738
+201601,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3738
+201610,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,3761
+200703,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3774
+200706,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3776
+201407,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3778
+201610,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,3778
+201211,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3789
+201712,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,3800
+201404,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3804
+200511,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3811
+201404,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3813
+200907,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3814
+200612,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3827
+201008,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,3846
+200703,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3849
+200602,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,3863
+200511,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3868
+201405,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3869
+200603,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,3870
+201607,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,3870
+201312,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3884
+200706,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Deplaned,Low Fare,International,A,3888
+201211,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3893
+201405,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3903
+201312,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3905
+200907,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3912
+201007,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,3915
+201311,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3924
+201404,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3925
+201305,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,3928
+200908,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3930
+201007,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,3944
+201008,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,3950
+201801,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,3951
+200908,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3960
+200903,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3971
+200806,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,3978
+201311,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,3995
+201305,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,4001
+201903,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4007
+201209,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4009
+200803,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4015
+200806,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4020
+201803,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,4024
+201407,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4026
+201703,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,4030
+201801,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,4043
+200601,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,4057
+201609,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,4075
+200809,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4094
+200601,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,4096
+201411,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,4105
+201411,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,4107
+200706,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,4110
+200701,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4141
+200512,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4146
+201701,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,4152
+201903,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,4166
+200701,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4171
+200707,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,4176
+200606,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4181
+200708,Spirit Airlines,NK,Spirit Airlines,NK,Domestic,US,Enplaned,Low Fare,International,A,4183
+201209,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,4190
+200706,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4219
+201701,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,4228
+201803,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,4228
+201902,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,4230
+201812,French Bee,BF,French Bee,BF,International,Australia / Oceania,Deplaned,Other,International,G,4236
+201902,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,4241
+200812,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4285
+201606,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,4288
+201804,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,4288
+201803,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,4292
+200512,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4318
+201609,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,4321
+201804,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,4325
+201803,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,4347
+201901,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4351
+200801,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4365
+201705,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,4366
+201702,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,4369
+200606,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4373
+200812,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4374
+201710,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,4378
+200509,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,4412
+200808,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4435
+200603,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,4436
+200510,Independence Air,DH,Independence Air,DH,Domestic,US,Enplaned,Low Fare,International,A,4446
+201801,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4447
+200608,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4457
+201212,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4461
+200801,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4463
+201311,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4484
+200807,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4530
+200607,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4532
+200510,Independence Air,DH,Independence Air,DH,Domestic,US,Deplaned,Low Fare,International,A,4550
+201708,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,4553
+200603,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,4563
+200709,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4593
+200807,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4596
+201012,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,4597
+200808,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4629
+200709,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4646
+201212,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,4646
+201612,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,4647
+201009,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,G,4652
+200608,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4653
+201106,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4667
+200607,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4684
+200508,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4717
+201206,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4718
+200508,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4720
+201701,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,4721
+201012,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,G,4723
+201606,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,4735
+201606,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,4735
+201909,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,4740
+200711,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4751
+200710,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4769
+200507,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,4784
+201705,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,4797
+201809,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4806
+201810,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,4812
+200507,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,4827
+201504,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4833
+201810,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,4837
+201809,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,4873
+201206,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,4884
+201704,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,4894
+201704,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,4910
+201810,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,4917
+201608,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,4926
+201609,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,4926
+201904,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,4991
+201311,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5023
+201612,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,5031
+201604,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5041
+201108,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5044
+201702,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,5049
+201604,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5051
+201504,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5065
+201302,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,5079
+201606,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,5130
+200710,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,5148
+201909,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,5154
+201706,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,5174
+201812,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,5179
+201108,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5181
+200509,Independence Air,DH,Independence Air,DH,Domestic,US,Deplaned,Low Fare,International,A,5218
+201611,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,A,5253
+201903,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,5264
+201610,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,5297
+201905,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,5297
+201801,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,5326
+201611,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,5358
+201310,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5369
+200707,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,5370
+201302,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,5370
+201106,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5381
+201309,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5387
+201710,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,5411
+200507,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,5415
+201712,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,5415
+201411,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5417
+200711,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,5440
+201702,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,5450
+201908,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,5456
+201907,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,5485
+201705,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,5502
+200509,Independence Air,DH,Independence Air,DH,Domestic,US,Enplaned,Low Fare,International,A,5503
+201901,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,5517
+201107,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5520
+201903,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,5522
+200707,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,5523
+201207,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5528
+201608,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,5568
+201609,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,5568
+201906,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,5571
+201309,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5578
+201705,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,5580
+200712,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,5589
+201107,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5596
+201608,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,5644
+201310,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5658
+201207,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5677
+201905,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,5694
+201408,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,5699
+200508,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,5712
+201704,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5713
+201405,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5717
+201704,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5719
+201411,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5732
+200904,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,5735
+201707,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,5739
+200510,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Thru / Transit,Low Fare,Terminal 1,B,5754
+201701,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,5755
+201408,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,5767
+201705,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,5781
+201612,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,5843
+200512,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,5844
+200512,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,5847
+200804,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,5856
+201612,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,5883
+200511,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,5892
+200712,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,5899
+201705,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,5922
+200511,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,5929
+201301,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,5932
+201208,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,5939
+201405,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,5953
+201609,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Low Fare,International,A,5961
+200904,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6006
+201607,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,6022
+201908,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,6070
+201610,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,6095
+201208,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6100
+201804,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6103
+201707,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,6112
+201804,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6117
+201306,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6134
+201002,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6139
+201002,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6153
+200804,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6214
+201907,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,6220
+201904,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,6251
+201811,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6261
+201609,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Low Fare,International,A,6283
+201709,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6309
+201810,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,6328
+201906,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Deplaned,Other,International,A,6331
+201409,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6373
+201409,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6414
+201706,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,6426
+200810,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6443
+201906,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,6487
+201306,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6491
+201811,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6492
+201102,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6496
+201410,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6509
+201304,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6566
+201709,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6590
+201303,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6609
+201303,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6613
+201301,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6615
+200704,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6618
+201611,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6619
+201908,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Enplaned,Other,International,A,6625
+201610,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6655
+200510,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,6680
+201905,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Deplaned,Other,International,A,6683
+201102,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6707
+201611,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6713
+201304,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6726
+200704,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6748
+201406,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6748
+201305,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6759
+201904,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Deplaned,Other,International,A,6776
+200810,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6790
+200509,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,6806
+201410,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6810
+201610,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6844
+201312,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6845
+201904,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,6853
+201305,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6855
+201511,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6859
+201907,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Enplaned,Other,International,A,6861
+201909,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Deplaned,Other,International,A,6864
+201510,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,6868
+201202,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6883
+200712,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6893
+201607,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,G,6897
+201909,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Enplaned,Other,International,A,6898
+201904,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Enplaned,Other,International,A,6903
+201906,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Enplaned,Other,International,A,6920
+201202,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6925
+200612,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,6991
+200612,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,6997
+200510,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,6999
+201312,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7012
+201805,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,7020
+201908,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Deplaned,Other,International,A,7034
+201511,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7044
+201905,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Enplaned,Other,International,A,7053
+200509,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,7057
+200712,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,7068
+201901,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Deplaned,Other,International,A,7071
+201609,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7101
+201412,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7121
+201608,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Low Fare,International,A,7124
+201907,Norwegian Air UK Ltd,DI,Norwegian Air UK Ltd,DI,International,Europe,Deplaned,Other,International,A,7138
+201710,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7149
+201904,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7164
+200611,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,7241
+201711,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7243
+200604,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,7256
+201510,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7273
+201703,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,7275
+201412,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7284
+201710,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7289
+201509,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7294
+200708,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,Terminal 1,B,7314
+200708,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,Terminal 1,B,7367
+201607,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Enplaned,Low Fare,International,A,7383
+201608,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,A,7383
+201001,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,7410
+201406,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7420
+201607,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,7421
+201512,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7440
+201812,ABC Aerolineas S.A. de C.V. dba Interjet,4O,ABC Aerolineas S.A. de C.V. dba Interjet,4O,International,Mexico,Enplaned,Other,International,A,7448
+200604,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,7453
+201909,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7453
+201909,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7503
+201703,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,7515
+201605,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7522
+200611,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,7536
+201609,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7538
+201001,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,7542
+201505,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7567
+200605,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,7579
+200809,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,7584
+201806,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7616
+201308,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7631
+201711,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7661
+201807,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,7677
+201512,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7695
+200508,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,7737
+200711,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,7791
+200508,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,7796
+200711,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,7809
+201705,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7815
+201307,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7823
+201907,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,International,A,7841
+200605,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,7849
+201907,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,International,A,7851
+201308,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7869
+201612,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7886
+201509,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,7911
+201612,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,7922
+201003,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,7932
+201706,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,7982
+200507,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,7984
+200507,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,8055
+201709,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,8069
+201705,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,8071
+201808,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,8104
+201605,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,8126
+200705,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,8127
+201003,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,8139
+201101,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,8166
+201805,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,8189
+201505,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,8198
+201805,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,8200
+201812,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,8202
+201307,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,8219
+201808,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,8256
+201809,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,8325
+201704,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,8340
+201809,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,8358
+201708,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,8403
+201101,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,8543
+200705,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,8558
+201607,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,8568
+201812,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,8580
+201709,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,8589
+201805,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,8600
+201805,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,8667
+201806,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,8668
+201201,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,8694
+201805,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,8730
+201201,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,8735
+201704,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,8741
+201608,Volaris Airlines,Y4,Volaris Airlines,Y4,International,Mexico,Deplaned,Low Fare,International,A,8823
+201708,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,8982
+201712,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,8989
+201806,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,8989
+200609,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,9021
+200609,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9046
+201712,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,9052
+201707,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,9055
+201407,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,9060
+201706,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,9112
+201707,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,9138
+200602,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9180
+200610,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9183
+200508,Independence Air,DH,Independence Air,DH,Domestic,US,Deplaned,Low Fare,International,A,9191
+201905,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,9203
+200902,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,9320
+201708,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,9328
+201808,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,9376
+201905,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,9377
+201806,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,9382
+201212,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9397
+201709,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,9419
+201808,WOW Air,WW,WOW Air,WW,International,Europe,Enplaned,Other,International,A,9432
+201408,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,9440
+201706,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,9451
+200610,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,9488
+201408,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,9516
+201807,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,9540
+201707,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,9551
+201309,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,9556
+201309,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9609
+201506,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,9610
+201706,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,9654
+201212,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,9655
+201709,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,9667
+201407,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,9677
+201606,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,9714
+201306,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9755
+200801,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,9837
+201807,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,9840
+201807,WOW Air,WW,WOW Air,WW,International,Europe,Deplaned,Other,International,G,9848
+200508,Independence Air,DH,Independence Air,DH,Domestic,US,Enplaned,Low Fare,International,A,9850
+201211,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9862
+201307,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9870
+201506,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,9964
+200709,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,9975
+201211,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10032
+200709,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10150
+201606,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,10164
+201508,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,10257
+201902,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10301
+201708,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,10311
+200602,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10323
+201902,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,10325
+201608,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,10389
+201706,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,10403
+201001,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,10416
+200606,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,International,A,10421
+200902,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,10447
+201004,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,10509
+201306,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10515
+200901,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,10607
+201002,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,10631
+201307,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10649
+201708,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,10661
+201804,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10661
+201804,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,10707
+201308,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,10735
+201708,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,10753
+200606,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,International,A,10770
+201308,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10796
+201203,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,10813
+200507,Independence Air,DH,Independence Air,DH,Domestic,US,Deplaned,Low Fare,International,A,10843
+201310,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,10896
+200912,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,10963
+200507,Independence Air,DH,Independence Air,DH,Domestic,US,Enplaned,Low Fare,International,A,10967
+201203,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,10967
+201608,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,11000
+200802,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,11050
+200601,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11071
+201004,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11098
+200910,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11103
+200911,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11103
+201310,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11166
+200903,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,11175
+201707,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,11187
+200912,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11228
+201508,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,11244
+201806,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11347
+201706,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,A,11413
+201002,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,11427
+201807,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11495
+200607,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11519
+200602,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11575
+200603,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11583
+201607,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,11592
+201901,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11607
+201507,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,11687
+201102,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,11727
+200607,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11729
+200801,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,11823
+200910,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11863
+200911,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11863
+201807,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11885
+200604,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11890
+200604,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11920
+200603,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11921
+200602,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11945
+201112,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11950
+201806,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,11960
+200710,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,11989
+200802,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,12021
+201901,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12066
+200601,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12096
+200710,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12119
+201112,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12218
+200601,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12226
+200901,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,12241
+200904,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,12336
+201001,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,12344
+201210,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12400
+201102,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,12454
+200510,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12490
+201707,Air Berlin,AB,Air Berlin,AB,International,Europe,Deplaned,Other,International,A,12491
+200912,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,12526
+201707,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,12544
+200812,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,12551
+200811,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,12571
+201302,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,12574
+200510,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12585
+201210,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12596
+201903,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12617
+201302,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,12633
+200905,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12642
+201903,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12647
+201003,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,12736
+201811,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12761
+201507,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,12769
+201209,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12817
+201402,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,12829
+200905,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12854
+200512,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12855
+201811,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12856
+201004,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,12858
+201607,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,12876
+201810,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12890
+200909,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,12908
+200511,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12922
+201810,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12943
+200509,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,12989
+200601,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13010
+200712,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13048
+201809,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13048
+200512,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13049
+200511,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13080
+201011,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13114
+200811,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13115
+201401,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,13118
+201809,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13130
+200912,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13138
+200905,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,13140
+200608,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13190
+201209,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13200
+200904,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13232
+200812,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13270
+201005,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13271
+201402,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13283
+200805,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13350
+200903,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13354
+201005,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13360
+200909,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13412
+200911,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,13422
+200509,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13426
+201012,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13436
+201808,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13456
+201411,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13489
+201411,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13494
+201101,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,13511
+200909,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,13552
+201011,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13562
+201103,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13565
+201103,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13629
+201812,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,13634
+201004,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13651
+201012,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13676
+200809,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,13694
+201003,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13732
+201808,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13741
+200810,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,13757
+201401,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,13887
+200608,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13940
+201812,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,13957
+201111,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,14005
+200805,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,14016
+200810,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14132
+200910,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14162
+200906,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14173
+200706,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,14181
+200712,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14195
+201904,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,14207
+200906,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14233
+201904,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,14252
+201303,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14292
+201301,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14297
+201312,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14299
+200911,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14313
+201907,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,14325
+200706,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,14354
+201312,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14378
+200905,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14414
+201111,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,14424
+200809,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14506
+201303,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14516
+200909,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14528
+201101,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14537
+201304,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14658
+201104,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,14696
+201301,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14712
+201204,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,14819
+201204,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,14844
+201304,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14850
+201202,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14861
+201403,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14882
+200907,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14915
+200603,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,14927
+201311,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14959
+200804,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,14963
+201201,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,14992
+201103,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,15099
+201311,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,15195
+200804,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,15204
+200910,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,15205
+201906,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,15208
+200908,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,15267
+200803,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,15335
+200907,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,15347
+200512,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,15373
+201012,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,15401
+201403,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,15423
+201010,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,15495
+200803,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,15507
+201012,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,15523
+200908,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,15557
+200603,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,15659
+201307,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,15686
+201104,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,15708
+201005,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,15733
+201212,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,15836
+201306,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,15943
+201009,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,15982
+201404,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,16000
+201307,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16041
+201010,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,16089
+201305,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,16091
+201404,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16115
+201109,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,16129
+201103,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16134
+201212,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,16137
+200604,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,16184
+201306,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16200
+201305,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16292
+200604,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,16319
+201005,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16382
+201202,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16405
+201009,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,16409
+201009,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,16427
+201906,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,16464
+201711,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,16471
+200711,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,16472
+201502,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,16473
+201502,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,16475
+201711,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,16558
+201110,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,16629
+201702,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,16633
+200512,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,16790
+200805,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,16794
+200511,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,16855
+200805,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16869
+201410,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,16909
+200701,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,16997
+201009,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,16998
+201104,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17004
+201104,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,17011
+201109,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,17019
+201802,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,17033
+200508,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,17109
+201110,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,17120
+200612,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17125
+200711,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17153
+200508,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,17186
+201802,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,17199
+201201,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17222
+201702,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,17236
+201011,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,17311
+201410,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17331
+200509,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,17341
+200511,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,17376
+200708,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,17469
+200606,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17507
+201308,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17546
+201908,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Enplaned,Low Fare,International,A,17557
+200708,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,17561
+201308,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,17584
+201006,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17606
+201011,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17627
+201712,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,17661
+200510,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,17698
+201501,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,17752
+201203,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,17786
+201006,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,17801
+201008,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,17808
+200701,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17887
+201112,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,17888
+201206,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17895
+201007,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17921
+201007,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,17929
+201501,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,17933
+201908,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,17959
+201008,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,17962
+201712,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18045
+201204,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18092
+201309,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18093
+201907,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18105
+200709,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18199
+200606,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18229
+201503,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,18231
+200702,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18251
+201211,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18257
+201503,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18263
+201504,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18263
+201505,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18263
+201309,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18286
+201206,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18362
+200507,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18368
+201112,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18397
+201209,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18404
+200702,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18500
+200806,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,18526
+200609,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18530
+200509,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18541
+201504,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,18548
+200605,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18573
+201710,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18596
+201209,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18632
+200707,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18640
+201204,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18647
+201205,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18659
+201207,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18659
+201211,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18687
+201207,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18697
+200806,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18708
+200609,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18748
+200806,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18750
+200610,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18769
+201409,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18782
+201205,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,18793
+201907,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,18800
+200610,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18901
+201205,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,18927
+201406,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,18956
+200710,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18970
+200808,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,18986
+201803,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,19021
+201801,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,19030
+201310,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19098
+201203,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19122
+201409,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19152
+200707,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,19158
+200605,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,19205
+201406,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19211
+201710,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,19211
+200507,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,19234
+200709,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19235
+201407,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19236
+201310,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19265
+201210,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19292
+201803,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,19305
+201210,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19427
+200906,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,19491
+201405,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19515
+200808,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19526
+200710,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19528
+201205,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19587
+200806,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19611
+200612,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19646
+201407,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19673
+200807,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19772
+201408,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19777
+200906,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,19799
+200611,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19826
+200611,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,19846
+201801,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,19873
+201408,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,19885
+200510,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,19983
+201208,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,20010
+201405,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,20044
+201905,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,20210
+201111,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,20218
+201208,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,20222
+200908,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,20256
+201703,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,20525
+200908,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,20592
+201111,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,20680
+201703,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,20686
+201109,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,20696
+201105,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,20707
+200808,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,20860
+201208,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,20875
+201208,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,20886
+200807,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,20948
+201412,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,21003
+201905,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,21093
+201010,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,21101
+201412,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,21222
+201010,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,21245
+201106,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,21290
+201110,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,21375
+201106,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,21418
+201109,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,21567
+201105,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,21591
+201107,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,21595
+201107,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,21702
+200808,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,21908
+201701,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,21945
+201110,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,22150
+201105,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,22186
+200907,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,22274
+201006,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,22294
+201701,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,22310
+201108,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,22486
+201907,Sun Country Airlines,SY,Sun Country Airlines,SY,Domestic,US,Deplaned,Low Fare,International,A,22488
+201704,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,22553
+200907,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,22574
+201909,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,International,A,22633
+201108,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,22642
+200807,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,22661
+200703,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,22811
+200703,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,23221
+201909,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,International,A,23221
+201704,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,23270
+201206,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,23408
+201006,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,23442
+200807,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,23650
+201602,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,23704
+201602,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,23753
+200608,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,23805
+201007,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,23811
+201612,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,23848
+200608,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,24068
+201008,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,24068
+200607,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,24081
+201612,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,24093
+201007,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,24266
+200708,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,24346
+201206,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,24523
+201008,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,24779
+200607,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,24996
+200708,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,25058
+201105,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,25074
+201508,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,25218
+200704,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,25255
+201505,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,25399
+201509,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,25516
+201906,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,25543
+200704,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,25576
+201509,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,25698
+201611,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,25715
+201507,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,25803
+201106,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,25825
+201207,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,25832
+201508,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,25852
+200707,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,25971
+201507,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,25986
+201506,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,26006
+201506,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,26050
+201611,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,26082
+200705,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,26305
+201709,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,26462
+201908,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,International,A,26462
+200508,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,26535
+201207,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,26605
+201906,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,26633
+200705,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,26789
+201709,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,26797
+201601,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,26862
+201106,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,26926
+201908,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,International,A,27063
+201108,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,27244
+200507,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,27271
+200707,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,27281
+200508,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Deplaned,Low Fare,Terminal 1,B,27472
+201603,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,27768
+201108,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,27840
+201601,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,27872
+201510,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,28141
+201510,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,28213
+201603,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,28319
+201708,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,28494
+201107,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Enplaned,Low Fare,Terminal 1,B,28495
+201107,AirTran Airways,FL,AirTran Airways,FL,Domestic,US,Deplaned,Low Fare,Terminal 1,B,28778
+201708,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,28791
+201604,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,28928
+201707,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,29022
+200507,ATA Airlines,TZ,ATA Airlines,TZ,Domestic,US,Enplaned,Low Fare,Terminal 1,B,29131
+201604,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,29434
+201707,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,29469
+201706,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,29914
+201606,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,30279
+201706,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,30358
+201605,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,30521
+201705,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,30586
+201605,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,30813
+201606,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,31014
+201705,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,31342
+200706,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,C,31450
+201511,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,31703
+201511,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,32580
+200706,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,C,32868
+201512,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,35676
+201512,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,35735
+201609,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,35750
+201610,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,36197
+201609,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,36571
+201607,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,36661
+201607,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,36749
+201608,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Deplaned,Low Fare,Terminal 1,B,36984
+201608,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,37143
+201610,Frontier Airlines,F9,Frontier Airlines,F9,Domestic,US,Enplaned,Low Fare,Terminal 1,B,37433
