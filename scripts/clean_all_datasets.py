@@ -9,6 +9,19 @@ def get_airline_list(prefix):
             airline_list.append(airline.rstrip())
     return airline_list
 
+# This returns a clean version of the spreadsheet row.
+def clean_line(line):
+
+    # This truncates the 'month' values from the 'Activity Period' so the entry is simply the year.
+    cleaned_line = line[:4]+line[6:]
+    year = line[:4]
+    # Both 2005 and 2019 are incomplete years in the datasets, so they are left out of the cleaned dataset.
+
+    if '2005' in year or '2019' in year:
+        return ''
+
+    return line[:4]+line[6:]
+
 # Filter a specific file for lines with airlines in the airline_list in them.
 def clean_file(file_name,airline_list,prefix):
 
@@ -22,7 +35,7 @@ def clean_file(file_name,airline_list,prefix):
         for line in reader:
             for airline in airline_list:
                 if airline in line:
-                    clean_file.write(line)
+                    clean_file.write(clean_line(line))
 
     clean_file.close()
     reader.close()

@@ -1,59 +1,48 @@
 Activity Period,Operating Airline,Operating Airline IATA Code,Published Airline,Published Airline IATA Code,GEO Summary,GEO Region,Activity Type Code,Price Category Code,Terminal,Boarding Area,Passenger Count
-201309,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Thru / Transit,Other,Other,Other,3
-201309,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Thru / Transit,Other,Other,Other,3
-200510,Miami Air International,GL,Miami Air International,GL,International,Canada,Deplaned,Other,International,A,28
-200905,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,53
-200905,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,55
-200807,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,58
-200807,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,60
-200707,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,64
-201309,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Deplaned,Other,Other,Other,65
-201309,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Deplaned,Other,Other,Other,65
-200608,Xtra Airways,XP,Xtra Airways,XP,Domestic,US,Deplaned,Other,International,A,73
-200608,Xtra Airways,XP,Xtra Airways,XP,Domestic,US,Enplaned,Other,International,A,73
-201103,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,81
-200808,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,85
-200805,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,86
-201705,Trego Dugan Aviation,,Trego Dugan Aviation,,Domestic,US,Deplaned,Low Fare,International,A,108
-201105,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,123
-200804,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,136
-200804,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,164
-200710,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,166
-201509,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,166
-200710,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,167
-201104,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,226
-201705,Trego Dugan Aviation,,Trego Dugan Aviation,,Domestic,US,Enplaned,Low Fare,International,A,304
-201705,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,1217
-201705,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,1249
-201905,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,1888
-201710,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,1985
-201810,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2097
-201710,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2113
-201909,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2161
-201709,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2256
-201805,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2268
-201805,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2288
-201708,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2298
-201706,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2312
-201905,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2328
-201909,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2336
-201709,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2384
-201810,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2392
-201707,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2443
-201708,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2525
-201706,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2693
-201707,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2806
-201809,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2921
-201806,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,3104
-201808,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3130
-201809,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3305
-201808,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,3541
-201806,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3542
-201906,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,3630
-201907,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3659
-201807,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3788
-201907,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,3860
-201908,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3898
-201906,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3959
-201908,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,4031
-201807,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,4289
+2013,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Thru / Transit,Other,Other,Other,3
+2013,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Thru / Transit,Other,Other,Other,3
+2009,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,53
+2009,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,55
+2008,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,58
+2008,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,60
+2007,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,64
+2013,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Deplaned,Other,Other,Other,65
+2013,"Atlas Air, Inc",5Y,"Atlas Air, Inc",5Y,Domestic,US,Deplaned,Other,Other,Other,65
+2006,Xtra Airways,XP,Xtra Airways,XP,Domestic,US,Deplaned,Other,International,A,73
+2006,Xtra Airways,XP,Xtra Airways,XP,Domestic,US,Enplaned,Other,International,A,73
+2011,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,81
+2008,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,85
+2008,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,86
+2017,Trego Dugan Aviation,,Trego Dugan Aviation,,Domestic,US,Deplaned,Low Fare,International,A,108
+2011,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,123
+2008,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,136
+2008,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,164
+2007,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,166
+2015,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,166
+2007,Miami Air International,GL,Miami Air International,GL,Domestic,US,Deplaned,Other,International,A,167
+2011,Miami Air International,GL,Miami Air International,GL,Domestic,US,Enplaned,Other,International,A,226
+2017,Trego Dugan Aviation,,Trego Dugan Aviation,,Domestic,US,Enplaned,Low Fare,International,A,304
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,1217
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,1249
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,1985
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2097
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2113
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2256
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2268
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2288
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2298
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2312
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2384
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2392
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2443
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2525
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,2693
+2017,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2806
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,2921
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,3104
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3130
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3305
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,3541
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3542
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Enplaned,Other,International,G,3788
+2018,Thomas Cook Airlines,MT,Thomas Cook Airlines,MT,International,Europe,Deplaned,Other,International,G,4289
